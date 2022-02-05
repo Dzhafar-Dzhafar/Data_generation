@@ -677,7 +677,11 @@ GeneralGener = [gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, g
 new_general = []
 for el, _ in groupby(GeneralGener):
     new_general.append(el)
-# Выводим 100 рандомных индекса с отсортированного списка
-random_index = random.sample(new_general, 5)
+# Выводим 100 НЕ ПОВТОРЯЕМЫХ(sample) рандомных индекса с отсортированного списка
+random_index = random.sample(new_general, 100)
+# Индексы переводим из списка в строки и записываем с новой строки каждый набор
 mod = '\n'.join(random_index)
-print(mod)
+# Записываем результат в документ
+file_1 = open('111_1.txt', 'a', encoding="utf8")
+file_1.write(mod)
+file_1.close()
