@@ -395,3 +395,227 @@ gener_317 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + j3 + ' Dep
 gener_318 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + j3 + ' Deposit: ' + h4 + ' Mortgage: ' + h5
 gener_319 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + j3 + ' Deposit: ' + i4 + ' Mortgage: ' + i5
 gener_320 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + j5
+# Выполняем перебор элемента 4-ого порядка каждой строки в сочитании с каждой строкой
+# Заносим результаты с подпиской элементов в переменные
+# Перебор элемента a4
+gener_321 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + a5
+gener_322 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + a4 + ' Mortgage: ' + b5
+gener_323 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + a4 + ' Mortgage: ' + c5
+gener_324 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + a4 + ' Mortgage: ' + d5
+gener_325 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + a4 + ' Mortgage: ' + e5
+gener_326 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + a4 + ' Mortgage: ' + f5
+gener_327 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + a4 + ' Mortgage: ' + g5
+gener_328 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + a4 + ' Mortgage: ' + h5
+gener_329 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + a4 + ' Mortgage: ' + i5
+gener_330 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + a4 + ' Mortgage: ' + j5
+# Перебор элемента b4
+gener_331 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + b4 + ' Mortgage: ' + a5
+gener_332 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + b5
+gener_333 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + b4 + ' Mortgage: ' + c5
+gener_334 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + b4 + ' Mortgage: ' + d5
+gener_335 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + b4 + ' Mortgage: ' + e5
+gener_336 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + b4 + ' Mortgage: ' + f5
+gener_337 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + b4 + ' Mortgage: ' + g5
+gener_338 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + b4 + ' Mortgage: ' + h5
+gener_339 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + b4 + ' Mortgage: ' + i5
+gener_340 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + b4 + ' Mortgage: ' + j5
+# Перебор элемента c4
+gener_341 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + c4 + ' Mortgage: ' + a5
+gener_342 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + c4 + ' Mortgage: ' + b5
+gener_343 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + c5
+gener_344 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + c4 + ' Mortgage: ' + d5
+gener_345 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + c4 + ' Mortgage: ' + e5
+gener_346 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + c4 + ' Mortgage: ' + f5
+gener_347 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + c4 + ' Mortgage: ' + g5
+gener_348 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + c4 + ' Mortgage: ' + h5
+gener_349 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + c4 + ' Mortgage: ' + i5
+gener_350 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + c4 + ' Mortgage: ' + j5
+# Перебор элемента d4
+gener_351 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + d4 + ' Mortgage: ' + a5
+gener_352 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + d4 + ' Mortgage: ' + b5
+gener_353 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + d4 + ' Mortgage: ' + c5
+gener_354 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + d5
+gener_355 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + d4 + ' Mortgage: ' + e5
+gener_356 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + d4 + ' Mortgage: ' + f5
+gener_357 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + d4 + ' Mortgage: ' + g5
+gener_358 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + d4 + ' Mortgage: ' + h5
+gener_359 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + d4 + ' Mortgage: ' + i5
+gener_360 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + d4 + ' Mortgage: ' + j5
+# Перебор элемента e4
+gener_361 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + e4 + ' Mortgage: ' + a5
+gener_362 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + e4 + ' Mortgage: ' + b5
+gener_363 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + e4 + ' Mortgage: ' + c5
+gener_364 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + e4 + ' Mortgage: ' + d5
+gener_365 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + e5
+gener_366 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + e4 + ' Mortgage: ' + f5
+gener_367 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + e4 + ' Mortgage: ' + g5
+gener_368 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + e4 + ' Mortgage: ' + h5
+gener_369 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + e4 + ' Mortgage: ' + i5
+gener_370 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + e4 + ' Mortgage: ' + j5
+# Перебор элемента f4
+gener_371 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + f4 + ' Mortgage: ' + a5
+gener_372 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + f4 + ' Mortgage: ' + b5
+gener_373 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + f4 + ' Mortgage: ' + c5
+gener_374 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + f4 + ' Mortgage: ' + d5
+gener_375 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + f4 + ' Mortgage: ' + e5
+gener_376 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + f5
+gener_377 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + f4 + ' Mortgage: ' + g5
+gener_378 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + f4 + ' Mortgage: ' + h5
+gener_379 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + f4 + ' Mortgage: ' + i5
+gener_380 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + f4 + ' Mortgage: ' + j5
+# Перебор элемента g4
+gener_381 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + g4 + ' Mortgage: ' + a5
+gener_382 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + g4 + ' Mortgage: ' + b5
+gener_383 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + g4 + ' Mortgage: ' + c5
+gener_384 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + g4 + ' Mortgage: ' + d5
+gener_385 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + g4 + ' Mortgage: ' + e5
+gener_386 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + g4 + ' Mortgage: ' + f5
+gener_387 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + g5
+gener_388 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + g4 + ' Mortgage: ' + h5
+gener_389 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + g4 + ' Mortgage: ' + i5
+gener_390 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + g4 + ' Mortgage: ' + j5
+# Перебор элемента h4
+gener_391 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + h4 + ' Mortgage: ' + a5
+gener_392 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + h4 + ' Mortgage: ' + b5
+gener_393 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + h4 + ' Mortgage: ' + c5
+gener_394 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + h4 + ' Mortgage: ' + d5
+gener_395 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + h4 + ' Mortgage: ' + e5
+gener_396 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + h4 + ' Mortgage: ' + f5
+gener_397 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + h4 + ' Mortgage: ' + g5
+gener_398 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + h5
+gener_399 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + h4 + ' Mortgage: ' + i5
+gener_400 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + h4 + ' Mortgage: ' + j5
+# Перебор элемента i4
+gener_401 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + i4 + ' Mortgage: ' + a5
+gener_402 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + i4 + ' Mortgage: ' + b5
+gener_403 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + i4 + ' Mortgage: ' + c5
+gener_404 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + i4 + ' Mortgage: ' + d5
+gener_405 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + i4 + ' Mortgage: ' + e5
+gener_406 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + i4 + ' Mortgage: ' + f5
+gener_407 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + i4 + ' Mortgage: ' + g5
+gener_408 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + i4 + ' Mortgage: ' + h5
+gener_409 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + i5
+gener_410 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + i4 + ' Mortgage: ' + j5
+# Перебор элемента j4
+gener_411 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + j4 + ' Mortgage: ' + a5
+gener_412 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + j4 + ' Mortgage: ' + b5
+gener_413 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + j4 + ' Mortgage: ' + c5
+gener_414 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + j4 + ' Mortgage: ' + d5
+gener_415 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + j4 + ' Mortgage: ' + e5
+gener_416 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + j4 + ' Mortgage: ' + f5
+gener_417 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + j4 + ' Mortgage: ' + g5
+gener_418 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + j4 + ' Mortgage: ' + h5
+gener_419 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + j4 + ' Mortgage: ' + i5
+gener_420 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + j5
+# Выполняем перебор элемента 5-ого порядка каждой строки в сочитании с каждой строкой
+# Заносим результаты с подпиской элементов в переменные
+# Перебор элемента a5
+gener_421 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + a5
+gener_422 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + a5
+gener_423 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + a5
+gener_424 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + a5
+gener_425 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + a5
+gener_426 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + a5
+gener_427 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + a5
+gener_428 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + a5
+gener_429 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + a5
+gener_430 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + a5
+# Перебор элемента b5
+gener_431 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + b5
+gener_432 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + b5
+gener_433 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + b5
+gener_434 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + b5
+gener_435 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + b5
+gener_436 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + b5
+gener_437 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + b5
+gener_438 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + b5
+gener_439 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + b5
+gener_440 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + b5
+# Перебор элемента c5
+gener_441 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + c5
+gener_442 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + c5
+gener_443 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + c5
+gener_444 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + c5
+gener_445 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + c5
+gener_446 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + c5
+gener_447 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + c5
+gener_448 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + c5
+gener_449 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + c5
+gener_450 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + c5
+# Перебор элемента d5
+gener_451 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + d5
+gener_452 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + d5
+gener_453 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + d5
+gener_454 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + d5
+gener_455 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + d5
+gener_456 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + d5
+gener_457 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + d5
+gener_458 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + d5
+gener_459 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + d5
+gener_460 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + d5
+# Перебор элемента e5
+gener_461 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + e5
+gener_462 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + e5
+gener_463 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + e5
+gener_464 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + e5
+gener_465 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + e5
+gener_466 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + e5
+gener_467 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + e5
+gener_468 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + e5
+gener_469 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + e5
+gener_470 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + e5
+# Перебор элемента f5
+gener_471 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + f5
+gener_472 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + f5
+gener_473 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + f5
+gener_474 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + f5
+gener_475 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + f5
+gener_476 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + f5
+gener_477 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + f5
+gener_478 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + f5
+gener_479 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + f5
+gener_480 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + f5
+# Перебор элемента g5
+gener_481 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + g5
+gener_482 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + g5
+gener_483 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + g5
+gener_484 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + g5
+gener_485 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + g5
+gener_486 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + g5
+gener_487 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + g5
+gener_488 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + g5
+gener_489 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + g5
+gener_490 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + g5
+# Перебор элемента h5
+gener_491 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + h5
+gener_492 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + h5
+gener_493 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + h5
+gener_494 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + h5
+gener_495 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + h5
+gener_496 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + h5
+gener_497 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + h5
+gener_498 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + h5
+gener_499 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + h5
+gener_500 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + h5
+# Перебор элемента i5
+gener_501 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + i5
+gener_502 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + i5
+gener_503 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + i5
+gener_504 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + i5
+gener_505 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + i5
+gener_506 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + i5
+gener_507 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + i5
+gener_508 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + i5
+gener_509 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + i5
+gener_510 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + i5
+# Перебор элемента j5
+gener_511 = 'Fullname: ' + a1 + ' cities: ' + a2 + ' Credit-card: ' + a3 + ' Deposit: ' + a4 + ' Mortgage: ' + j5
+gener_512 = 'Fullname: ' + b1 + ' cities: ' + b2 + ' Credit-card: ' + b3 + ' Deposit: ' + b4 + ' Mortgage: ' + j5
+gener_513 = 'Fullname: ' + c1 + ' cities: ' + c2 + ' Credit-card: ' + c3 + ' Deposit: ' + c4 + ' Mortgage: ' + j5
+gener_514 = 'Fullname: ' + d1 + ' cities: ' + d2 + ' Credit-card: ' + d3 + ' Deposit: ' + d4 + ' Mortgage: ' + j5
+gener_515 = 'Fullname: ' + e1 + ' cities: ' + e2 + ' Credit-card: ' + e3 + ' Deposit: ' + e4 + ' Mortgage: ' + j5
+gener_516 = 'Fullname: ' + f1 + ' cities: ' + f2 + ' Credit-card: ' + f3 + ' Deposit: ' + f4 + ' Mortgage: ' + j5
+gener_517 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Deposit: ' + g4 + ' Mortgage: ' + j5
+gener_518 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + j5
+gener_519 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + j5
+gener_520 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + j5
