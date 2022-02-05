@@ -1,4 +1,5 @@
 from itertools import groupby
+import random
 # Тут мы вытаскиваем через разграниуитель "," значения и вносим их в переменные
 # Разиваем 1-ю строку из файла на 5-ть элементов
 a1 = open('111.txt', 'r', encoding="utf8").read().split(',')[0]
@@ -672,9 +673,11 @@ GeneralGener = [gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, g
                 gener_481, gener_482, gener_483, gener_484, gener_485, gener_486, gener_487, gener_488, gener_489, gener_490,
                 gener_491, gener_492, gener_493, gener_494, gener_495, gener_496, gener_497, gener_498, gener_499, gener_500,
                 ]
-
+# Убираем дубликаты
 new_general = []
 for el, _ in groupby(GeneralGener):
     new_general.append(el)
-mod = '\n'.join(new_general)
+# Выводим 100 рандомных индекса с отсортированного списка
+random_index = random.sample(new_general, 5)
+mod = '\n'.join(random_index)
 print(mod)
