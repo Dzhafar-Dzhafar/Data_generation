@@ -1,3 +1,4 @@
+from itertools import groupby
 # Тут мы вытаскиваем через разграниуитель "," значения и вносим их в переменные
 # Разиваем 1-ю строку из файла на 5-ть элементов
 a1 = open('111.txt', 'r', encoding="utf8").read().split(',')[0]
@@ -619,3 +620,47 @@ gener_497 = 'Fullname: ' + g1 + ' cities: ' + g2 + ' Credit-card: ' + g3 + ' Dep
 gener_498 = 'Fullname: ' + h1 + ' cities: ' + h2 + ' Credit-card: ' + h3 + ' Deposit: ' + h4 + ' Mortgage: ' + j5
 gener_499 = 'Fullname: ' + i1 + ' cities: ' + i2 + ' Credit-card: ' + i3 + ' Deposit: ' + i4 + ' Mortgage: ' + j5
 gener_500 = 'Fullname: ' + j1 + ' cities: ' + j2 + ' Credit-card: ' + j3 + ' Deposit: ' + j4 + ' Mortgage: ' + j5
+#Создаем общий список для сортировки и последующего исключения дубликатов
+GeneralGener = [gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_11, gener_12, gener_13, gener_14, gener_15, gener_16, gener_17, gener_18, gener_19, gener_20,
+                gener_21, gener_22, gener_23, gener_24, gener_25, gener_26, gener_27, gener_28, gener_29, gener_30,
+                gener_31, gener_32, gener_33, gener_34, gener_35, gener_36, gener_37, gener_38, gener_39, gener_40,
+                gener_41, gener_42, gener_43, gener_44, gener_45, gener_46, gener_47, gener_48, gener_49, gener_50,
+                gener_51, gener_52, gener_53, gener_54, gener_55, gener_56, gener_57, gener_58, gener_59, gener_60,
+                gener_61, gener_62, gener_63, gener_64, gener_65, gener_66, gener_67, gener_68, gener_69, gener_70,
+                gener_71, gener_72, gener_73, gener_74, gener_75, gener_76, gener_77, gener_78, gener_79, gener_80,
+                gener_81, gener_82, gener_83, gener_84, gener_85, gener_86, gener_87, gener_88, gener_89, gener_90,
+                gener_91, gener_92, gener_93, gener_94, gener_95, gener_96, gener_97, gener_98, gener_99, gener_100,
+                gener_101, gener_102, gener_103, gener_104, gener_105, gener_106, gener_107, gener_108, gener_109, gener_110,
+                gener_111, gener_112, gener_113, gener_114, gener_115, gener_116, gener_117, gener_118, gener_119, gener_120,
+                gener_121, gener_122, gener_123, gener_124, gener_125, gener_126, gener_127, gener_128, gener_129, gener_130,
+                gener_131, gener_132, gener_133, gener_134, gener_135, gener_136, gener_137, gener_138, gener_139, gener_140,
+                gener_141, gener_142, gener_143, gener_144, gener_145, gener_146, gener_147, gener_148, gener_149, gener_150,
+                gener_151, gener_152, gener_153, gener_154, gener_155, gener_156, gener_157, gener_158, gener_159, gener_160,
+                gener_161, gener_162, gener_163, gener_164, gener_165, gener_166, gener_167, gener_168, gener_169, gener_170,
+                gener_171, gener_172, gener_173, gener_174, gener_175, gener_176, gener_177, gener_178, gener_179, gener_180,
+                gener_181, gener_182, gener_183, gener_184, gener_185, gener_186, gener_187, gener_188, gener_189, gener_190,
+                gener_191, gener_192, gener_193, gener_194, gener_195, gener_196, gener_197, gener_198, gener_199, gener_200,
+                gener_201, gener_202, gener_203, gener_204, gener_205, gener_206, gener_207, gener_208, gener_209, gener_210,
+                gener_211, gener_212, gener_213, gener_214, gener_215, gener_216, gener_217, gener_218, gener_219, gener_220,
+                gener_221, gener_222, gener_223, gener_224, gener_225, gener_226, gener_227, gener_228, gener_229, gener_230,
+                gener_231, gener_232, gener_233, gener_234, gener_235, gener_236, gener_237, gener_238, gener_239, gener_240,
+                gener_241, gener_242, gener_243, gener_244, gener_245, gener_246, gener_247, gener_248, gener_249, gener_250,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                gener_1, gener_2, gener_3, gener_4, gener_5, gener_6, gener_7, gener_8, gener_9, gener_10,
+                ]
+
+new_general = []
+for el, _ in groupby(GeneralGener):
+    new_general.append(el)
+mod = '\n'.join(new_general)
+print(mod)
