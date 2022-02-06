@@ -1,0 +1,190 @@
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 1
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: Жарикова Каролина Тихоновна  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Кинжаев Игорь Аникитевич  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 1
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Фомичёва Инна Федотовна  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: Жарикова Каролина Тихоновна  cities: Москва Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Жилов Емельян Игоревич  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Фомичёва Инна Федотовна  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: Жарикова Каролина Тихоновна  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Казань Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Жилов Емельян Игоревич  cities: Екатеринбург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Еськова Ольга Казимировна  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Новосибирск Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: Жарикова Каролина Тихоновна  cities: Москва Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Жилов Емельян Игоревич  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Санкт-Петербург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 1
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Еськова Ольга Казимировна  cities: Казань Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Яворский Мефодий Серафимович  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Кинжаев Игорь Аникитевич  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Ёжиков Родион Захарович  cities: Екатеринбург Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Еськова Ольга Казимировна  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Фомичёва Инна Федотовна  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 1
+Fullname: Жарикова Каролина Тихоновна  cities: Москва Credit-card: 1 Deposit: 1 Mortgage: 0
+Fullname: 
+Еськова Ольга Казимировна  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: Жарикова Каролина Тихоновна  cities: Екатеринбург Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: Жарикова Каролина Тихоновна  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 0
+Fullname: 
+Фомичёва Инна Федотовна  cities: Челябинск Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Фомичёва Инна Федотовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Яворский Мефодий Серафимович  cities: Челябинск Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Фомичёва Инна Федотовна  cities: Челябинск Credit-card: 0 Deposit: 1 Mortgage: 1
+Fullname: 
+Яворский Мефодий Серафимович  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Ёжиков Родион Захарович  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 1
+Fullname: 
+Кинжаев Игорь Аникитевич  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Екатеринбург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Фомичёва Инна Федотовна  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Яворский Мефодий Серафимович  cities: Новосибирск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Фомичёва Инна Федотовна  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Ёжиков Родион Захарович  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Фомичёва Инна Федотовна  cities: Казань Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Яворский Мефодий Серафимович  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 0
+Fullname: 
+Яворский Мефодий Серафимович  cities: Челябинск Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ёжиков Родион Захарович  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Яворский Мефодий Серафимович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: Жарикова Каролина Тихоновна  cities: Казань Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Кинжаев Игорь Аникитевич  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Кинжаев Игорь Аникитевич  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 1 Deposit: 1 Mortgage: 0
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ёжиков Родион Захарович  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 1
+Fullname: 
+Еськова Ольга Казимировна  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Казань Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Ёжиков Родион Захарович  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Ёжиков Родион Захарович  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Жилов Емельян Игоревич  cities: Челябинск Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 0
+Fullname: Жарикова Каролина Тихоновна  cities: Москва Credit-card: 1 Deposit: 1 Mortgage: 0
+Fullname: 
+Валиев Викентий Аполлинариевич  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Ёжиков Родион Захарович  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Яворский Мефодий Серафимович  cities: Челябинск Credit-card: 1 Deposit: 1 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Кинжаев Игорь Аникитевич  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Екатеринбург Credit-card: 1 Deposit: 1 Mortgage: 0
+Fullname: 
+Еськова Ольга Казимировна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ёжиков Родион Захарович  cities: Новосибирск Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Жилов Емельян Игоревич  cities: Новосибирск Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Ёжиков Родион Захарович  cities: Санкт-Петербург Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Жилов Емельян Игоревич  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
+Fullname: 
+Кинжаев Игорь Аникитевич  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: Жарикова Каролина Тихоновна  cities: Москва Credit-card: 1 Deposit: 1 Mortgage: 1
+Fullname: 
+Еськова Ольга Казимировна  cities: Казань Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Еськова Ольга Казимировна  cities: Казань Credit-card: 0 Deposit: 1 Mortgage: 0
+Fullname: 
+Низовский Ярослав Пахомович  cities: Новосибирск Credit-card: 0 Deposit: 0 Mortgage: 0
+Fullname: 
+Ретюнскиха Елена Владленовна  cities: Санкт-Петербург Credit-card: 1 Deposit: 0 Mortgage: 1
